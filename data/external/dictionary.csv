@@ -1,0 +1,16 @@
+variavel,descricao,tipo,subtipo
+survived,se o individuo esta vivo ou morto,qualitativa,nominal
+pclass,Classe de ingresso,qualitativa,ordinal
+sex,sexo,qualitativa,nominal
+age,idade em anos,quantitativa,discreta
+sibsp,# de irmãos/cônjuges a bordo do Titanic,quantitativa,discreta
+parch,"# de pais/crianças a bordo do Titanic, 0 para quem foi somente com baba",qualitativa,discreta
+fare,Tarifa de passageiro,qualitativa,continua
+embarked,Ponto de embarcacao,qualitativa,nominal
+class,Se refere a classe social ou categoria que os passageiros foram agrupados(desnecessario tambem),qualitativa,ordinal
+who,informacao do genero (desnecessaria pois ja tem do sexo),qualitativa,nominal
+adult_male,Homem adulto,qualitativa,nominal
+deck,conves onde os passageiros ficavam alojados,qualitativa,nominal
+embarked_towm,cidade que cada individuo embarcou no navio(provavel desnecessario),qualitativa,nominal
+alive,Se o passageiro sobreviveu ao naufragio(provavel desncessario),qualitativa,nominal
+alone,Se o passageiro viajava sozinho,qualitativa,nominal
