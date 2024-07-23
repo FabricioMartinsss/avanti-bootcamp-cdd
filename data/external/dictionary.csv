@@ -4,8 +4,8 @@ pclass,Classe de ingresso,qualitativa,ordinal
 sex,sexo,qualitativa,nominal
 age,idade em anos,quantitativa,discreta
 sibsp,# de irmãos/cônjuges a bordo do Titanic,quantitativa,discreta
-parch,"# de pais/crianças a bordo do Titanic, 0 para quem foi somente com baba",qualitativa,discreta
-fare,Tarifa de passageiro,qualitativa,continua
+parch,"# de pais/crianças a bordo do Titanic, 0 para quem foi somente com baba",quantitativa,discreta
+fare,Tarifa de passageiro,quantitativa,continua
 embarked,Ponto de embarcacao,qualitativa,nominal
 class,Se refere a classe social ou categoria que os passageiros foram agrupados(desnecessario tambem),qualitativa,ordinal
 who,informacao do genero (desnecessaria pois ja tem do sexo),qualitativa,nominal
